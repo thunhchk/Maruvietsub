@@ -2896,8 +2896,8 @@ end
 local library = {}
 
 _G.Color = Color3.fromRGB(0, 0, 255)
-_G.imageLogo = "rbxassetid://92722314324124"
-_G.Logo = "rbxassetid://92722314324124"
+_G.imageLogo = "rbxassetid://117123962771603"
+_G.Logo = "rbxassetid://117123962771603"
 _G.NameHub = "by thịnh-hoàng" -- ชื่อ Hub
 _G.Title = "MARU HUB" -- คำอธิบาย
 -----------------------------------------------------------------
@@ -11581,9 +11581,9 @@ end
 game:GetService("StarterGui"):SetCore(
     "SendNotification",
     {
-        Title = "MARU HUB",
+        Title = "MARU HUB by thịnh-hoàng",
         Text = "Đã Tải Xong",
-        Icon = "rbxthumb://type=Asset&id=75774010417827&w=150&h=150",
+        Icon = "rbxthumb://type=Asset&id=117123962771603&w=150&h=150",
         Duration = 5
     }
 )
